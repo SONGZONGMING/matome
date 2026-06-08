@@ -14,7 +14,8 @@
 - c++で作られた課題
 
 
- game3：https://github.com/SONGZONGMING/cggame
+  game3：https://github.com/SONGZONGMING/cggame
+ 
 　目標に触れながら危険を避け、同時に簡単な絵を描くこともできるゲームである。
   
 - 参考資料
