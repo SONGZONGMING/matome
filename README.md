@@ -13,12 +13,16 @@
 
 - c++で作られた課題
 
-  game1：https://github.com/SONGZONGMING/Shooting_22RD601/tree/main
+  game1：https://github.com/SONGZONGMING/Shooting_22RD601
 
-  Shooting ゲーム、目標は敵を倒す
+  　Shooting ゲーム　目標：敵を倒す
+
+  game2：https://github.com/SONGZONGMING/JumpAction_22RD601
+
+  　jumpゲーム 目標：　4匹猫を倒す 或いは　終点に到着
 
   game3：https://github.com/SONGZONGMING/cggame
  
-　目標に触れながら危険を避け、同時に簡単な絵を描くこともできるゲームである。
+　 目標に触れながら危険を避け、同時に簡単な絵を描くこともできるゲームである。
   
 - 参考資料
