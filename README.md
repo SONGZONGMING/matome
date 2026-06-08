@@ -13,6 +13,9 @@
 
 - c++で作られた課題
 
+  game1：https://github.com/SONGZONGMING/Shooting_22RD601/tree/main
+
+  Shooting ゲーム、目標は敵を倒す
 
   game3：https://github.com/SONGZONGMING/cggame
  
