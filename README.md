@@ -1,6 +1,6 @@
 # matome
 
-これは授業内容や研究メモをまとめるためのリポジトリです。
+これは授業課題や研究内容をまとめるためのリポジトリです。
 
 ## 内容
 - jspsych-demos：https://github.com/SONGZONGMING/jspsych-demos
