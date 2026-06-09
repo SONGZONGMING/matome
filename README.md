@@ -3,6 +3,10 @@
 これは授業課題や研究内容をまとめるためのリポジトリです。
 
 ## 内容
+- 参考資料
+
+
+  
 - jspsych-demos：https://github.com/SONGZONGMING/jspsych-demos
 
    卒業論文実験データを収集ためのサイト
@@ -25,4 +29,10 @@
  
 　 目標に触れながら危険を避け、同時に簡単な絵を描くこともできるゲームである。
   
+- unityで作られた課題
+
+雪狐小游戏:https://github.com/SONGZONGMING/xuehugame
+
+　敵を倒す　できるだけ生き残るゲームだ
+
 - 参考資料
