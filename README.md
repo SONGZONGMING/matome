@@ -3,9 +3,13 @@
 これは授業課題や研究内容をまとめるためのリポジトリです。
 
 ## 内容
-- 参考資料
+- SVC： https://github.com/SONGZONGMING/SVC
 
+深層学習ベースの歌声変換ツールである so-vits-svc を使用し、独自の音声モデルを制作しました。
 
+制作にあたっては、音声素材の整理、ノイズ除去、データセット作成、モデル学習、推理、音声調整まで一連の工程をやりました。
+
+完成したモデルを用いて楽曲の歌声変換を行い、AI音声技術を活用した音楽作品を制作しました。
   
 - jspsych-demos：https://github.com/SONGZONGMING/jspsych-demos
 
@@ -31,8 +35,8 @@
   
 - unityで作られた課題
 
-雪狐小游戏:https://github.com/SONGZONGMING/xuehugame
+ 雪狐小游戏:https://github.com/SONGZONGMING/xuehugame
 
-　敵を倒す　できるだけ生き残るゲームだ
+　 敵を倒す　できるだけ生き残るゲームだ
 
-- 参考資料
+
