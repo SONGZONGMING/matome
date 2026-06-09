@@ -31,12 +31,12 @@
 
   game3：https://github.com/SONGZONGMING/cggame
  
-　 目標に触れながら危険を避け、同時に簡単な絵を描くこともできるゲームである。
+　   目標に触れながら危険を避け、同時に簡単な絵を描くこともできるゲームである。
   
 - unityで作られた課題
 
-    雪狐小游戏:https://github.com/SONGZONGMING/xuehugame
+  雪狐小游戏:https://github.com/SONGZONGMING/xuehugame
 
-　   敵を倒す　できるだけ生き残るゲームだ
+　    敵を倒す　できるだけ生き残るゲームだ
 
 
