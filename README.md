@@ -35,8 +35,10 @@
   
 - python相関の課題
    Pythonの深層学習ライブラリ(PyTorch/TensorFlow)相関の課題はフォルダ「AIP2」の中
+  
 　　教授が提供したコードをもとに、課題で指定された部分を自分で改修・実験した経験がある
   　改修の部分はコート下の「課題」を書いているところ
+   
   　Google Drive: https://drive.google.com/drive/folders/15mQZDwaRUg83tY4bpziZoHB6_RGVF6Z0?usp=sharing
   
 - unityで作られた課題
