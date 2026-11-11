@@ -42,7 +42,7 @@
    
   　Google Drive: https://drive.google.com/drive/folders/15mQZDwaRUg83tY4bpziZoHB6_RGVF6Z0?usp=sharing
 - 音から感情を推定する分類器作成と性能評価
-- 
+  
    先生からのデータと基礎コードを貰い、音声特徴量から感情を推定する分類器を開発する。
   
   　分析報告書
