@@ -41,7 +41,13 @@
   　改修の部分はコート下の「課題」を書いているところ
    
   　Google Drive: https://drive.google.com/drive/folders/15mQZDwaRUg83tY4bpziZoHB6_RGVF6Z0?usp=sharing
-  
+- 音から感情を推定する分類器作成と性能評価
+   先生からのデータと基礎コードを貰い、音声特徴量から感情を推定する分類器を開発する。
+  　分析報告書
+   　https://drive.google.com/file/d/1ndyDu3qkiCKvBVPIaciwkgxXSAr1hRV6/view?usp=sharing
+  　コード
+   　https://colab.research.google.com/drive/1GDMo1eYjlXPkJnthG-Yz2D3Wn7D9WsY1?usp=sharing
+   
 - unityで作られた課題
 
   雪狐小游戏:https://github.com/SONGZONGMING/xuehugame
